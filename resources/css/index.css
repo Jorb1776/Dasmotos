@@ -3,9 +3,12 @@
 }
 
 h1 {
+  text-align: center;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
+  background-image: url(/resources/images/pattern.webp);
+  background-size: 5000px;
 }
 
 h2 {
@@ -24,4 +27,9 @@ h2 {
 
 .paint {
   background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
 }
